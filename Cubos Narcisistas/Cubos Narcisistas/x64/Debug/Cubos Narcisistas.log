@@ -1,0 +1,3 @@
+﻿  Cubos Narcisistas.cpp
+C:\Users\axela\source\repos\Cubos Narcisistas\Cubos Narcisistas\Cubos Narcisistas.cpp(13,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Cubos Narcisistas.vcxproj -> C:\Users\axela\source\repos\Cubos Narcisistas\x64\Debug\Cubos Narcisistas.exe
