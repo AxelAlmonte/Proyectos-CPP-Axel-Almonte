@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Generador de numeros primos/Generador de numeros primos.vcxproj" Id="111dcbd1-f4cc-4ee4-bbc0-f14429dd27b3" />
+</Solution>
