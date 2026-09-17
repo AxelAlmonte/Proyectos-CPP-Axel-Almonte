@@ -1,0 +1,5 @@
+﻿  Cadena.cpp
+C:\Users\axela\source\repos\Cadena\Cadena\Cadena.cpp(45,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\axela\source\repos\Cadena\Cadena\Cadena.cpp(6,5):
+      see previous definition of 'main'
+  

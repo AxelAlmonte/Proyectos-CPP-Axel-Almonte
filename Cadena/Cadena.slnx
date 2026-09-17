@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cadena/Cadena.vcxproj" Id="639475ae-8e95-4abe-9933-528d60c6ac54" />
+</Solution>
