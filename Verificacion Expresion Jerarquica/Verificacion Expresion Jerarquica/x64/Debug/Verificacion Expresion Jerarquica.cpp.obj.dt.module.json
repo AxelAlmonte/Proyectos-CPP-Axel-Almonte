@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Verificacion Expresion Jerarquica.obj",
+            "outputs": [
+                "x64\\Debug\\Verificacion Expresion Jerarquica.cpp.obj.dt.module.json",
+                "x64\\Debug\\Verificacion Expresion Jerarquica.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
