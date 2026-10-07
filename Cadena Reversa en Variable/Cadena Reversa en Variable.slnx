@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cadena Reversa en Variable/Cadena Reversa en Variable.vcxproj" />
+</Solution>

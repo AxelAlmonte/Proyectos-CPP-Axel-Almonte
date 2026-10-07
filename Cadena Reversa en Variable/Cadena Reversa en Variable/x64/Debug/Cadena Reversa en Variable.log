@@ -1,0 +1,3 @@
+﻿  Cadena Reversa en Variable.cpp
+C:\Users\axela\source\repos\Cadena Reversa en Variable\Cadena Reversa en Variable\Cadena Reversa en Variable.cpp(11,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Cadena Reversa en Variable.vcxproj -> C:\Users\axela\source\repos\Cadena Reversa en Variable\x64\Debug\Cadena Reversa en Variable.exe
