@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Numeros Perfectos/Numeros Perfectos.vcxproj" Id="f05fb78e-77ec-418f-81d3-187dc46cdcd2" />
+</Solution>
